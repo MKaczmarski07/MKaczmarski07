@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikołaj Kaczmarski</h1>
 <h3 align="center">A passionate Front-End developer from Poland. I like to work creatively and combine graphics and animations with programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkaczmarski07&label=Profile%20views&color=0e75b6&style=flat" alt="mkaczmarski07" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on: my personal portfolio website<br>🌱 I’m currently learning: Angular, TailwindCSS, TypeScript<br>📫 How to reach me: mikolajkaczmarski07@onet.pl<br>
 
@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mkaczmarski07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mkaczmarski07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaczmarski07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaczmarski07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mkaczmarski07&icon=0&color=5)](https://visitcount.itsvg.in)
