@@ -3,7 +3,11 @@
 ## Welcome to my profile. 🤝
 **I'm a passionate Front-End developer from Poland. I like to work creatively and combine graphics and animations with programming.**
 
-## My Tech Stack
+
+## Check out my personal website 🌐
+https://kaczmarski.dev
+
+## My Tech Stack 👨‍💻
 ### Languages
 - JavaScript/TypeScript
 - HTML/CSS
