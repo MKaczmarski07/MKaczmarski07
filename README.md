@@ -1,23 +1,23 @@
 # Hi, I'm Mikołaj 
 
 ## Welcome to my profile. 🤝
-**I'm a front-end developer specializing in the Angular framework. I'm constantly learning and developing my skills in designing, coding and testing websites.**
+
+💻 I specialize in Front-End technologies & Multimedia Engineering <br>
+🔬 I'm currently studying for an Engineer's degree in Lublin University of Technology <br>
+🎓 I graduated from Technical High School in field of Information and Communication Technology <br>
+📫 How to reach me: mikolajkaczmarski07@onet.pl
+
+##  My Favorite Tools 🛠️
+### Programming and Markup Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
 
-**Although I am at the beginning of my career as a programmer, I have a solid foundation in Angular and other front-end technologies that allow me to create wonderful websites. I am determined to expand my knowledge and skills to be able to implement more complex projects in the future..**
+### Frameworks and Libraries
+[![My Skills](https://skillicons.dev/icons?i=angular,tailwind,threejs,scss,materialui)](https://skillicons.dev)
+
+### Platforms and Tools
+[![My Skills](https://skillicons.dev/icons?i=firebase,illustrator,arduino,bash,git)](https://skillicons.dev)
 
 
-## Check out my personal website 🌐
-https://kaczmarski.dev
-
-## My Tech Stack 👨‍💻
-### Tools I know 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,tailwind,materialui,html,css,firebase,git)](https://skillicons.dev)
-
-### Worked with
-[![My Skills](https://skillicons.dev/icons?i=mysql,arduino,vue,bash)](https://skillicons.dev)
-
-## My GitHub stats 🏆
-<!--[](https://github-readme-stats.vercel.app/api?username=Mkaczmarski07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)--><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mkaczmarski07&theme=dark&hide_border=false)<br/>
-<!--[](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkaczmarski07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
+## Github Stats and Activity 📊
+![MKaczmarski07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MKaczmarski07&theme=dark&hide_border=true)
