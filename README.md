@@ -17,7 +17,3 @@
 
 ### Platforms and Tools
 [![My Skills](https://skillicons.dev/icons?i=firebase,illustrator,arduino,bash,git)](https://skillicons.dev)
-
-
-## Github Stats and Activity 📊
-![MKaczmarski07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MKaczmarski07&theme=dark&hide_border=true)
