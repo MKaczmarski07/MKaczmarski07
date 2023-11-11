@@ -13,7 +13,7 @@
 
 
 ### Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=angular,tailwind,threejs,scss,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,rxjs,tailwind,threejs,scss,materialui)](https://skillicons.dev)
 
 ### Platforms and Tools
 [![My Skills](https://skillicons.dev/icons?i=firebase,illustrator,arduino,bash,git)](https://skillicons.dev)
