@@ -7,13 +7,16 @@
 🎓 I graduated from Technical High School in field of Information and Communication Technology <br>
 📫 How to reach me: mikolajkaczmarski07@onet.pl
 
-##  My Favorite Tools 🛠️
+##  My Technology Stack 🛠️
 ### Programming and Markup Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
-
 
 ### Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=angular,rxjs,tailwind,threejs,scss,materialui)](https://skillicons.dev)
 
 ### Platforms and Tools
-[![My Skills](https://skillicons.dev/icons?i=firebase,illustrator,arduino,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,illustrator,bash,git)](https://skillicons.dev)
+
+### Technologies I worked with during my studies
+[![My Skills](https://skillicons.dev/icons?i=c,arduino,python,raspberrypi,matlab,linux)](https://skillicons.dev)
+
