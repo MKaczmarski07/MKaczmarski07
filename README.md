@@ -9,13 +9,13 @@
 
 ##  My Technology Stack 🛠️
 ### Programming and Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css)](https://skillicons.dev)
 
 ### Frameworks and Libraries
 [![My Skills](https://skillicons.dev/icons?i=angular,rxjs,tailwind,threejs,scss,materialui)](https://skillicons.dev)
 
 ### Platforms and Tools
-[![My Skills](https://skillicons.dev/icons?i=firebase,illustrator,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,illustrator,bash,git,vscode,idea)](https://skillicons.dev)
 
 ### Technologies I worked with during my studies
 [![My Skills](https://skillicons.dev/icons?i=c,arduino,python,raspberrypi,matlab,linux)](https://skillicons.dev)
