@@ -2,7 +2,8 @@
 
 ## Welcome to my profile. 🤝
 
-💻 I specialize in Software Development, but I'm also interested in IoT, Cybersecurity and new media, such as VR. <br>
+📡 Currently, I focus mainly on Network Engineering, but I also love programming. <br>
+👾 I'm  interested in FrontEnd development, IoT, Cybersecurity and new media, such as VR. <br>
 🔬 I'm currently studying for an Engineer's degree in Lublin University of Technology, specializing in Multimedia Engineering. <br>
 🎓 I graduated from Technical High School in field of Information and Communication Technology. <br>
 📫 How to reach me: mikolajkaczmarski07@onet.pl
@@ -19,14 +20,12 @@
 
 ##  My Technology Stack 🛠️
 ### Programming and Markup Languages
-[![My Skills](https://skillicons.dev/icons?i=java,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,ts,js,html,css)](https://skillicons.dev)
 
 ### Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=angular,rxjs,tailwind,threejs,scss,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,rxjs,tailwind,threejs,scss,materialui,flask)](https://skillicons.dev)
 
 ### Platforms and Tools
-[![My Skills](https://skillicons.dev/icons?i=firebase,illustrator,bash,git,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,firebase,bash,raspberrypi,arduino,git,illustrator)](https://skillicons.dev)
 
-### Technologies I worked with during my studies
-[![My Skills](https://skillicons.dev/icons?i=c,arduino,python,flask,raspberrypi,matlab,linux)](https://skillicons.dev)
 
