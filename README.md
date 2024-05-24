@@ -2,10 +2,10 @@
 
 ## Welcome to my profile. 🤝
 
-📡 Currently, I focus mainly on Network Engineering, but I also love programming. <br>
-👾 I'm  interested in FrontEnd development, IoT, Cybersecurity and new media, such as VR. <br>
-🔬 I'm currently studying for an Engineer's degree in Lublin University of Technology, specializing in Multimedia Engineering. <br>
-🎓 I graduated from Technical High School in field of Information and Communication Technology. <br>
+👾 I'm passionate about technology in general, but I devote my time mainly to networking, software development and cybersecurity.  <br>
+🔬 I'm currently studying for an Engineer's degree at Lublin University of Technology, specializing in Multimedia Engineering. <br>
+⚙️ My studies focus on emerging technologies, such as IoT, Robotics and new media ( like VR ) <br>
+🎓 I'm also a graduate of a technical high school in field of Information and Communication Technology. <br>
 📫 How to reach me: mikolajkaczmarski07@onet.pl
 
 ## Some of my projects 📦
