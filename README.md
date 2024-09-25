@@ -4,7 +4,7 @@
 
 👾 I'm passionate about technology in general, but I devote my time mainly to networking, cybersecurity and programming.<br>
 🔬 I'm currently studying for an Engineer's degree at Lublin University of Technology, specializing in Multimedia Engineering. <br>
-⚙️ My studies focus on IoT and automation in multimedia systems, information technology and multimedia computing ( Voice, Video, VR )<br>
+⚙️ My studies focus on IoT, automation & robotics, information technology and multimedia computing ( Voice, Video, VR )<br>
 🎓 I'm also a graduate of a technical high school in field of Information and Communication Technology. <br>
 📫 How to reach me: mikolajkaczmarski07@onet.pl
 
