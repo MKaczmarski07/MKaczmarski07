@@ -17,6 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=angular,rxjs,tailwind,threejs,scss,flask)](https://skillicons.dev)
 
 ### Platforms and Tools
-[![My Skills](https://skillicons.dev/icons?i=debian,kali,firebase,docker,raspberrypi,arduino,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,kali,firebase,docker,raspberrypi,arduino,git,postman)](https://skillicons.dev)
 
 
