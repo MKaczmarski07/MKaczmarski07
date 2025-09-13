@@ -2,9 +2,9 @@
 
 ## Welcome to my profile. 🤝
 
-#### I work as Network Engineer at Cisco Meraki, specializing in:<br>
+#### I work as a Network Engineer at Cisco Meraki, specializing in:<br>
 👾 Security & SD-WAN Solutions<br>
-🔀 Cloud-Managed Switching & Wirelesss<br>
+🔀 Cloud-Managed Switching & Wireless<br>
 🤖 Meraki IoT & Smart Cameras<br>
 
 #### Few facts about me:<br>
